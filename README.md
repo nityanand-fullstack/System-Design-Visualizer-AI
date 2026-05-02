@@ -52,7 +52,7 @@ Edit `backend/.env`:
 
 ```
 PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/system-design-visualizer
+MONGO_URI=mongodb:
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
 GEMINI_MODEL=gemini-1.5-flash
 CLIENT_URL=http://localhost:5173
