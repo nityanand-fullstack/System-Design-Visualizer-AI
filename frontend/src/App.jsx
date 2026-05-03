@@ -40,6 +40,7 @@ export default function App() {
       </main>
       <footer className="footer">
         <p>System Design Visualizer · Built with MERN + Gemini AI</p>
+        <p> all right reserve @Nityanand 2026</p>
       </footer>
     </div>
   );

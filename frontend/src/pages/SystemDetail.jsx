@@ -90,7 +90,7 @@ export default function SystemDetail() {
 
       {system.diagramUrl && (
         <section className="diagram-section">
-          <h2>Architecture Diagram</h2>
+          <h2>Diagram Images</h2>
           <div className="diagram">
             <img src={system.diagramUrl} alt={`${system.name} diagram`} />
           </div>
